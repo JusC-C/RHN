@@ -1,7 +1,7 @@
 # RHN
 The code of "Knowledge Graph Completion with Relation-based Hard Negative Sampling".
 
-In the main directory, there are four folders, each corresponding to one of the four methods mentioned in the paper. [From this link](https://www.alipan.com/s/t129eDRStse), download the `Model` folder and the `data` folder. Place the `Model` folder in the main directory, and copy the `data` folder into each of the four method folders. 
+In the main directory, there are four folders, each corresponding to one of the four methods mentioned in the paper. [From this link](https://drive.google.com/file/d/1ea0mh_TIXCQPLsTlNd2etNtYaO2tqhOM/view?usp=sharing), download the `Model` folder and the `data` folder. Place the `Model` folder in the main directory, and copy the `data` folder into each of the four method folders. 
 
 **for WN18RR**
 
