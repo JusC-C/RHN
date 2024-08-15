@@ -21,6 +21,8 @@ In the main directory, there are four folders, each corresponding to one of the 
 
 **for Wikidata5M**
 
+```0. bash ./scripts/download_wikidata5m.sh```
+
 ```1. bash scripts/preprocess.sh wiki5m_trans ```
 
 ```2. OUTPUT_DIR=./checkpoint/wiki5m_trans/ bash scripts/train_wiki.sh wiki5m_trans ```
