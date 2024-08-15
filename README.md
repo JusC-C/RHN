@@ -1,7 +1,7 @@
 # RHN
 The code of "Knowledge Graph Completion with Relation-based Hard Negative Sampling".
 
-There are six folders in the main directory. `Model` contains the pre-trained model, and `data` is the dataset. Please copy the `data` folder into the remaining four folders, each of which represents one of the four methods described in the paper.
+In the main directory, there are four folders, each corresponding to one of the four methods mentioned in the paper. From the Google Drive link, download the `Model` folder and the `data` folder. Place the `Model` folder in the main directory, and copy the `data` folder into each of the four method folders.
 
 **for WN18RR**
 
